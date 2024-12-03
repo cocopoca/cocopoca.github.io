@@ -1,7 +1,7 @@
 backend:
   name: github
   repo: cocopoca/cocopoca.github.io
-  branch: master
+  branch: main
   auth_endpoint: oauth
   client_id: Ov23liYOS0XJumrRLDjA
 
