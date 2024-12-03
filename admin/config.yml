@@ -2,10 +2,8 @@ backend:
   name: github
   repo: cocopoca/cocopoca.github.io
   branch: main
-  base_url: https://api.github.com
-  auth_endpoint: oauth/authorize
+  api_root: https://api.github.com
   client_id: Ov23livO9if3Kcjam8Oj
-  site_domain: cocopoca.github.io
 
 # This line should match your site URL
 site_url: https://cocopoca.github.io
