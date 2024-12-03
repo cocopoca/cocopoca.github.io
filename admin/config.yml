@@ -1,0 +1,28 @@
+backend:
+  name: github
+  repo: cocopoca/cocopoca.github.io
+  branch: main
+  base_url: https://api.netlify.com
+
+# This line should match your site URL
+site_url: https://cocopoca.github.io
+
+# Publish mode can be editorial or simple
+publish_mode: editorial_workflow
+
+# Media files will be stored in the repo under source/images
+media_folder: "source/images"
+public_folder: "/images"
+
+# Collections define the structure for content
+collections:
+  - name: "post" # Used in routes, e.g., /admin/collections/post
+    label: "Post" # Used in the UI
+    folder: "source/_posts" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    fields: # The fields for each document
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Publish Date", name: "date", widget: "datetime"}
+      - {label: "Categories", name: "categories", widget: "list", required: false}
+      - {label: "Tags", name: "tags", widget: "list", required: false}
+      - {label: "Body", name: "body", widget: "markdown"}
