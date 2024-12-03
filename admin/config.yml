@@ -3,7 +3,7 @@ backend:
   repo: cocopoca/cocopoca.github.io
   branch: main
   base_url: https://cocopoca.github.io
-  auth_endpoint: admin/oauth/auth
+  auth_endpoint: admin
   api_root: https://api.github.com
 
 # This line should match your site URL
