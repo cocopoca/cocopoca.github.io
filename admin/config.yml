@@ -2,8 +2,9 @@ backend:
   name: github
   repo: cocopoca/cocopoca.github.io
   branch: main
-  auth_type: implicit
-  app_id: Ov23liYOS0XJumrRLDjA
+  base_url: https://cocopoca.github.io
+  auth_endpoint: admin/oauth/auth
+  api_root: https://api.github.com
 
 # This line should match your site URL
 site_url: https://cocopoca.github.io
