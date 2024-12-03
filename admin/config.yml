@@ -1,7 +1,7 @@
 backend:
-  name: github
-  repo: cocopoca/cocopoca.github.io
+  name: git-gateway
   branch: main
+  repo: cocopoca/cocopoca.github.io
   base_url: https://api.netlify.com
   auth_endpoint: auth
   client_id: Ov23liYOS0XJumrRLDjA
