@@ -2,9 +2,12 @@ backend:
   name: github
   repo: cocopoca/cocopoca.github.io
   branch: main
-  base_url: https://cocopoca.github.io
-  auth_endpoint: oauth
+  base_url: https://api.github.com
+  auth_endpoint: login/oauth/authorize
   client_id: Ov23liYOS0XJumrRLDjA
+
+site_url: https://cocopoca.github.io
+display_url: https://cocopoca.github.io
 
 media_folder: "source/images"
 public_folder: "/images"

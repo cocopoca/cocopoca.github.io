@@ -7,7 +7,22 @@
     <title>Content Manager</title>
 </head>
 <body>
-    <!-- Include the script that builds the page and powers Decap CMS -->
+    <script>
+        window.CMS_MANUAL_INIT = true;
+    </script>
     <script src="https://unpkg.com/decap-cms@^3.0.0/dist/decap-cms.js"></script>
+    <script>
+        const config = {
+            backend: {
+                name: 'github',
+                repo: 'cocopoca/cocopoca.github.io',
+                branch: 'main',
+                base_url: 'https://api.github.com',
+                auth_endpoint: 'login/oauth/authorize',
+                client_id: 'Ov23liYOS0XJumrRLDjA'
+            }
+        };
+        window.CMS.init({ config });
+    </script>
 </body>
 </html>
