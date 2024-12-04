@@ -1,60 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>欢迎来到我的博客</title>
-    <url>/2024/01/17/welcome/</url>
-    <content><![CDATA[<h1 id="欢迎来到我的博客"><a href="#欢迎来到我的博客" class="headerlink" title="欢迎来到我的博客"></a>欢迎来到我的博客</h1><p>这是我的个人博客，这里将会分享：</p>
-<h2 id="技术文章"><a href="#技术文章" class="headerlink" title="技术文章"></a>技术文章</h2><ul>
-<li>编程技巧</li>
-<li>开发经验</li>
-<li>技术分享</li>
-</ul>
-<h2 id="生活随笔"><a href="#生活随笔" class="headerlink" title="生活随笔"></a>生活随笔</h2><ul>
-<li>日常感悟</li>
-<li>读书笔记</li>
-<li>兴趣爱好</li>
-</ul>
-<h2 id="Markdown-展示"><a href="#Markdown-展示" class="headerlink" title="Markdown 展示"></a>Markdown 展示</h2><h3 id="1-代码块"><a href="#1-代码块" class="headerlink" title="1. 代码块"></a>1. 代码块</h3><figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="keyword">def</span> <span class="title function_">hello_world</span>():</span><br><span class="line">    <span class="built_in">print</span>(<span class="string">&quot;Welcome to my blog!&quot;</span>)</span><br></pre></td></tr></table></figure>
-
-<h3 id="2-表格"><a href="#2-表格" class="headerlink" title="2. 表格"></a>2. 表格</h3><table>
-<thead>
-<tr>
-<th>功能</th>
-<th>描述</th>
-</tr>
-</thead>
-<tbody><tr>
-<td>文章归档</td>
-<td>按时间查看所有文章</td>
-</tr>
-<tr>
-<td>分类浏览</td>
-<td>按主题浏览文章</td>
-</tr>
-<tr>
-<td>标签搜索</td>
-<td>通过标签快速找到文章</td>
-</tr>
-</tbody></table>
-<h3 id="3-引用"><a href="#3-引用" class="headerlink" title="3. 引用"></a>3. 引用</h3><blockquote>
-<p>知识就是力量</p>
-</blockquote>
-<h3 id="4-任务列表"><a href="#4-任务列表" class="headerlink" title="4. 任务列表"></a>4. 任务列表</h3><ul>
-<li><input checked="" disabled="" type="checkbox"> 搭建博客</li>
-<li><input checked="" disabled="" type="checkbox"> 优化主题</li>
-<li><input disabled="" type="checkbox"> 持续创作</li>
-</ul>
-<p>欢迎访问我的 <a href="https://github.com/cocopoca">GitHub</a> 主页！</p>
-]]></content>
-      <categories>
-        <category>生活</category>
-      </categories>
-      <tags>
-        <tag>博客</tag>
-        <tag>介绍</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>我的第一篇博客</title>
     <url>/2024/01/17/first-post/</url>
     <content><![CDATA[<h2 id="开始写博客"><a href="#开始写博客" class="headerlink" title="开始写博客"></a>开始写博客</h2><p>很高兴开始我的博客之旅！在这里，我将分享我的技术学习心得和经验。</p>
@@ -157,6 +103,60 @@
 ]]></content>
   </entry>
   <entry>
+    <title>欢迎来到我的博客</title>
+    <url>/2024/01/17/welcome/</url>
+    <content><![CDATA[<h1 id="欢迎来到我的博客"><a href="#欢迎来到我的博客" class="headerlink" title="欢迎来到我的博客"></a>欢迎来到我的博客</h1><p>这是我的个人博客，这里将会分享：</p>
+<h2 id="技术文章"><a href="#技术文章" class="headerlink" title="技术文章"></a>技术文章</h2><ul>
+<li>编程技巧</li>
+<li>开发经验</li>
+<li>技术分享</li>
+</ul>
+<h2 id="生活随笔"><a href="#生活随笔" class="headerlink" title="生活随笔"></a>生活随笔</h2><ul>
+<li>日常感悟</li>
+<li>读书笔记</li>
+<li>兴趣爱好</li>
+</ul>
+<h2 id="Markdown-展示"><a href="#Markdown-展示" class="headerlink" title="Markdown 展示"></a>Markdown 展示</h2><h3 id="1-代码块"><a href="#1-代码块" class="headerlink" title="1. 代码块"></a>1. 代码块</h3><figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="keyword">def</span> <span class="title function_">hello_world</span>():</span><br><span class="line">    <span class="built_in">print</span>(<span class="string">&quot;Welcome to my blog!&quot;</span>)</span><br></pre></td></tr></table></figure>
+
+<h3 id="2-表格"><a href="#2-表格" class="headerlink" title="2. 表格"></a>2. 表格</h3><table>
+<thead>
+<tr>
+<th>功能</th>
+<th>描述</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>文章归档</td>
+<td>按时间查看所有文章</td>
+</tr>
+<tr>
+<td>分类浏览</td>
+<td>按主题浏览文章</td>
+</tr>
+<tr>
+<td>标签搜索</td>
+<td>通过标签快速找到文章</td>
+</tr>
+</tbody></table>
+<h3 id="3-引用"><a href="#3-引用" class="headerlink" title="3. 引用"></a>3. 引用</h3><blockquote>
+<p>知识就是力量</p>
+</blockquote>
+<h3 id="4-任务列表"><a href="#4-任务列表" class="headerlink" title="4. 任务列表"></a>4. 任务列表</h3><ul>
+<li><input checked="" disabled="" type="checkbox"> 搭建博客</li>
+<li><input checked="" disabled="" type="checkbox"> 优化主题</li>
+<li><input disabled="" type="checkbox"> 持续创作</li>
+</ul>
+<p>欢迎访问我的 <a href="https://github.com/cocopoca">GitHub</a> 主页！</p>
+]]></content>
+      <categories>
+        <category>生活</category>
+      </categories>
+      <tags>
+        <tag>博客</tag>
+        <tag>介绍</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>图表写作</title>
     <url>/2024/12/04/%E5%9B%BE%E8%A1%A8%E5%86%99%E4%BD%9C/</url>
     <content><![CDATA[<p>比例形图表通用格式：(主要是人的主观选择,这类图表往往有一个主题最大那部分，评论部分写原因夹杂看法，总结写总结和预测与看法）</p>
@@ -211,7 +211,18 @@
 <p>The high percentage for special features in chart,at 36.30%,indicates that this factor is the primary concern for most consumers when choosing a restaurant. there are several reasons to explain the phenomenon. First of all, the rising income levels greatly improved consumers’ choose of restaurant.  What’s more,the widespread adoption of the internet  and mobile devices has made information more accessible. <code>Therefore,people could more liking to choose that they not see and 体验过的 thing. </code>Therefore ,people are more likely to choose experiences or option that they have not seen or experienced before.</p>
 <p>To sum up,with the development of society, people’s choices have become more diverse, and they are paying more attention to spiritual pursuits. It is expected that this trend will also apply to other areas.</p>
 <p>泛化</p>
-<p>the pie chart illustrates the different purpose that students at a certain university when use their phones to reading.  The pie chart illustrates the different purposes for which students at a certain university use their phones for reading.(正确表述)The pie chart illustrates the different purposes for which students at a certain university used their phones for reading in 2017.</p>
+<p>the pie chart illustrates the different purpose that students at a certain university when use their phones to reading. （错误）</p>
+<p><code>to reading 该为for reading,purpose 加s,去掉when,purpose的从句用for which 引导</code></p>
+<p>(正确表述)The pie chart illustrates the different purposes for which students at a certain university used their phones <strong>for reading</strong> in 2017.</p>
+<p>the bar chart illustrates the different ways  for which residents  in a certain city choose to do exercise (错误) </p>
+<p><code>ways的从句该用that引导，do多余</code></p>
+<p>“The bar chart illustrates the different ways that residents in a certain city choose to exercise.”（正确）</p>
+<p>The pie chart illustrates  the different factors  that customers in a certain city <strong>considered</strong> when choosing a  restaurant in  2017 .（正确）</p>
+<p><code>这里的when是对considered的补充</code></p>
+<p><code>&quot;The pie chart illustrates the different factors considered by customers in a certain city when choosing a restaurant in 2017.&quot;</code></p>
+<p><code>这种表达方式将 &quot;considered&quot; 移动到从句的开头，使句子结构更加紧凑</code></p>
+<p>练习:</p>
+<p>the pie chart illustrates (主语是单数所以加s) the different purpose for which students at a certain university use their phones(d(多个学生各自的手机所以是s) for reading.</p>
 ]]></content>
       <tags>
         <tag>写作</tag>
