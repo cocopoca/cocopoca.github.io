@@ -1,60 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>欢迎来到我的博客</title>
-    <url>/2024/01/17/welcome/</url>
-    <content><![CDATA[<h1 id="欢迎来到我的博客"><a href="#欢迎来到我的博客" class="headerlink" title="欢迎来到我的博客"></a>欢迎来到我的博客</h1><p>这是我的个人博客，这里将会分享：</p>
-<h2 id="技术文章"><a href="#技术文章" class="headerlink" title="技术文章"></a>技术文章</h2><ul>
-<li>编程技巧</li>
-<li>开发经验</li>
-<li>技术分享</li>
-</ul>
-<h2 id="生活随笔"><a href="#生活随笔" class="headerlink" title="生活随笔"></a>生活随笔</h2><ul>
-<li>日常感悟</li>
-<li>读书笔记</li>
-<li>兴趣爱好</li>
-</ul>
-<h2 id="Markdown-展示"><a href="#Markdown-展示" class="headerlink" title="Markdown 展示"></a>Markdown 展示</h2><h3 id="1-代码块"><a href="#1-代码块" class="headerlink" title="1. 代码块"></a>1. 代码块</h3><figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="keyword">def</span> <span class="title function_">hello_world</span>():</span><br><span class="line">    <span class="built_in">print</span>(<span class="string">&quot;Welcome to my blog!&quot;</span>)</span><br></pre></td></tr></table></figure>
-
-<h3 id="2-表格"><a href="#2-表格" class="headerlink" title="2. 表格"></a>2. 表格</h3><table>
-<thead>
-<tr>
-<th>功能</th>
-<th>描述</th>
-</tr>
-</thead>
-<tbody><tr>
-<td>文章归档</td>
-<td>按时间查看所有文章</td>
-</tr>
-<tr>
-<td>分类浏览</td>
-<td>按主题浏览文章</td>
-</tr>
-<tr>
-<td>标签搜索</td>
-<td>通过标签快速找到文章</td>
-</tr>
-</tbody></table>
-<h3 id="3-引用"><a href="#3-引用" class="headerlink" title="3. 引用"></a>3. 引用</h3><blockquote>
-<p>知识就是力量</p>
-</blockquote>
-<h3 id="4-任务列表"><a href="#4-任务列表" class="headerlink" title="4. 任务列表"></a>4. 任务列表</h3><ul>
-<li><input checked="" disabled="" type="checkbox"> 搭建博客</li>
-<li><input checked="" disabled="" type="checkbox"> 优化主题</li>
-<li><input disabled="" type="checkbox"> 持续创作</li>
-</ul>
-<p>欢迎访问我的 <a href="https://github.com/cocopoca">GitHub</a> 主页！</p>
-]]></content>
-      <categories>
-        <category>生活</category>
-      </categories>
-      <tags>
-        <tag>博客</tag>
-        <tag>介绍</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>我的第一篇博客</title>
     <url>/2024/01/17/first-post/</url>
     <content><![CDATA[<h2 id="开始写博客"><a href="#开始写博客" class="headerlink" title="开始写博客"></a>开始写博客</h2><p>很高兴开始我的博客之旅！在这里，我将分享我的技术学习心得和经验。</p>
@@ -155,6 +101,60 @@
 <p>Firstly, you could download an app for “Exhibition.” There is some information about this show and exhibition. You should book a hotel early if you need to stay overnight, because this show will have a lot of visitors, and you might not find a place to sleep if you book very late.</p>
 <p>If you have any other questions, let me know without hesitation. I am looking forward to your reply. Wish you have a pleasant holiday.</p>
 ]]></content>
+  </entry>
+  <entry>
+    <title>欢迎来到我的博客</title>
+    <url>/2024/01/17/welcome/</url>
+    <content><![CDATA[<h1 id="欢迎来到我的博客"><a href="#欢迎来到我的博客" class="headerlink" title="欢迎来到我的博客"></a>欢迎来到我的博客</h1><p>这是我的个人博客，这里将会分享：</p>
+<h2 id="技术文章"><a href="#技术文章" class="headerlink" title="技术文章"></a>技术文章</h2><ul>
+<li>编程技巧</li>
+<li>开发经验</li>
+<li>技术分享</li>
+</ul>
+<h2 id="生活随笔"><a href="#生活随笔" class="headerlink" title="生活随笔"></a>生活随笔</h2><ul>
+<li>日常感悟</li>
+<li>读书笔记</li>
+<li>兴趣爱好</li>
+</ul>
+<h2 id="Markdown-展示"><a href="#Markdown-展示" class="headerlink" title="Markdown 展示"></a>Markdown 展示</h2><h3 id="1-代码块"><a href="#1-代码块" class="headerlink" title="1. 代码块"></a>1. 代码块</h3><figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="keyword">def</span> <span class="title function_">hello_world</span>():</span><br><span class="line">    <span class="built_in">print</span>(<span class="string">&quot;Welcome to my blog!&quot;</span>)</span><br></pre></td></tr></table></figure>
+
+<h3 id="2-表格"><a href="#2-表格" class="headerlink" title="2. 表格"></a>2. 表格</h3><table>
+<thead>
+<tr>
+<th>功能</th>
+<th>描述</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>文章归档</td>
+<td>按时间查看所有文章</td>
+</tr>
+<tr>
+<td>分类浏览</td>
+<td>按主题浏览文章</td>
+</tr>
+<tr>
+<td>标签搜索</td>
+<td>通过标签快速找到文章</td>
+</tr>
+</tbody></table>
+<h3 id="3-引用"><a href="#3-引用" class="headerlink" title="3. 引用"></a>3. 引用</h3><blockquote>
+<p>知识就是力量</p>
+</blockquote>
+<h3 id="4-任务列表"><a href="#4-任务列表" class="headerlink" title="4. 任务列表"></a>4. 任务列表</h3><ul>
+<li><input checked="" disabled="" type="checkbox"> 搭建博客</li>
+<li><input checked="" disabled="" type="checkbox"> 优化主题</li>
+<li><input disabled="" type="checkbox"> 持续创作</li>
+</ul>
+<p>欢迎访问我的 <a href="https://github.com/cocopoca">GitHub</a> 主页！</p>
+]]></content>
+      <categories>
+        <category>生活</category>
+      </categories>
+      <tags>
+        <tag>博客</tag>
+        <tag>介绍</tag>
+      </tags>
   </entry>
   <entry>
     <title>图表写作</title>
